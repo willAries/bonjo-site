@@ -58,9 +58,7 @@ The App is not directed to children under 4 and contains no age-restricted conte
 
 ## Your choices
 
-- Use the App fully offline in Demo Mode — switch it on at Settings → Me → AI Setup ("我" → AI 设置) and clear the server configuration. From then on no data leaves your device, and weekly plans are generated locally.
 - Delete all local data by deleting the App.
-- Clear the server configuration any time in Settings ("我" → AI 设置).
 - Turn the improvement program on or off any time in Settings ("我" → 分享匿名使用数据); before you opt in, nothing is collected or sent.
 
 ## Contact
