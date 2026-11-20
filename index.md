@@ -4,7 +4,7 @@ title: Bonjo
 
 # 好周 Bonjo
 
-An AI-powered weekly planner for iOS: tell it once who you want to be, and it drafts a realistic, energy-aware week.
+A personal recovery app for iOS: when you open a distracting app, Bonjo can catch you and offer one small, concrete break — then you note how it went.
 
 - [Privacy Policy](./privacy)
 - [Support](./support)
